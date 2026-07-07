@@ -3,4 +3,8 @@ Second line
 Third line
 forth line
 
+<<<<<<< HEAD
 fetch test
+=======
+change fetch
+>>>>>>> 27dd5d2 (demo.txt changed)
